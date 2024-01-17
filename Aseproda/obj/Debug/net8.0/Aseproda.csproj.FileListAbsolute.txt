@@ -1,0 +1,11 @@
+C:\Users\jaime\source\repos\Aseproda\Aseproda\bin\Debug\net8.0\Aseproda.deps.json
+C:\Users\jaime\source\repos\Aseproda\Aseproda\bin\Debug\net8.0\Aseproda.dll
+C:\Users\jaime\source\repos\Aseproda\Aseproda\bin\Debug\net8.0\Aseproda.pdb
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.AssemblyInfoInputs.cache
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.AssemblyInfo.cs
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.dll
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\refint\Aseproda.dll
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\Aseproda.pdb
+C:\Users\jaime\source\repos\Aseproda\Aseproda\obj\Debug\net8.0\ref\Aseproda.dll
