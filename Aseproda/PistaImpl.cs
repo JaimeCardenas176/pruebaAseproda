@@ -9,7 +9,7 @@ namespace Aseproda
 
         public PistaImpl(int cantidadSurtidores)    {
             surtidores = new List<Surtidor>();
-            for (int i = 1; i < cantidadSurtidores; i++) {
+            for (int i = 1; i <= cantidadSurtidores; i++) {
                 Surtidor surtidor = new SurtidorImpl(i);
                 surtidores.Add(surtidor);
             }
